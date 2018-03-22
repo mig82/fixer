@@ -28,7 +28,8 @@
     "canUpdateUI": true,
     "children": [
         "hellowWorldButton",
-        "fooImage"
+        "fooImage",
+        "goodByeButton"
     ],
     "containerweight": 100,
     "controllerInfo": {

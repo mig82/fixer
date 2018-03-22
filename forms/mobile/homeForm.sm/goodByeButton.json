@@ -6,10 +6,6 @@
         "type": "string",
         "value": "50dp"
     },
-    "_left_": {
-        "type": "number",
-        "value": "0"
-    },
     "_margin_": [
         6,
         6,
@@ -22,8 +18,12 @@
         0,
         0
     ],
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
     "_skin_": "sd04ca00066343fc84e19a3989c67876",
-    "_text_": "Say Hi",
+    "_text_": "Say Bye",
     "_top_": {
         "type": "string",
         "value": "224dp"
@@ -37,11 +37,11 @@
     "contentalignment": 5,
     "displaytext": true,
     "focusskin": "s6a29af4437e49008980585d5b6b7d99",
-    "id": "hellowWorldButton",
+    "id": "goodByeButton",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "f1c349b52bba420fbaf9578b268e4ed5",
+    "kuid": "dda2552bdbb44d90b4e734d3cd14552d",
     "name": "kony.ui.Button",
     "parent": "homeForm",
     "pf": "homeForm",
