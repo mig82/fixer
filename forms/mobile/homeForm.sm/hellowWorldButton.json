@@ -6,10 +6,6 @@
         "type": "string",
         "value": "50dp"
     },
-    "_left_": {
-        "type": "string",
-        "value": "50dp"
-    },
     "_margin_": [
         6,
         6,
@@ -23,16 +19,20 @@
         0
     ],
     "_skin_": "sd04ca00066343fc84e19a3989c67876",
-    "_text_": "Greet",
+    "_text_": "Say Hi",
     "_top_": {
         "type": "string",
         "value": "224dp"
     },
     "_width_": {
         "type": "string",
-        "value": "260dp"
+        "value": "100%"
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
