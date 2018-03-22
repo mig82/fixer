@@ -38,7 +38,6 @@
     "context": {
         "channel": "mobile",
         "formID": "homeForm",
-        "platform": "android",
         "templateType": "forms",
         "topLevelBox": null
     },
