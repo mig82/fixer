@@ -40,7 +40,6 @@
     "desktopweb": {
         "needAppMenu": false
     },
-    "device": "iPhoneX",
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "homeForm",
@@ -94,13 +93,9 @@
     "name": "kony.ui.Form2",
     "needappmenu": false,
     "paddinginpixel": false,
-    "platform": "iphone",
-    "prevDevice": "iPhoneX",
-    "prevPlatform": "iphone",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,
-    "shellCSS": "iOS_iPhoneX",
     "snapgridsize": 10,
     "snaptogrid": true,
     "spaan": {
