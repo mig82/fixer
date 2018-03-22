@@ -26,7 +26,9 @@
         }
     },
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "hellowWorldButton"
+    ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
