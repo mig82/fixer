@@ -104,7 +104,8 @@ resources/customlibs/jsXml/binary.util.xml
 resources/customlibs/jsXml/binarydata.js
 resources/customlibs/jsXml/binarydata.xml 
 
-nativebindings/Android/4.0/Kony_SyncV2-Android-4.0.zip
-nativebindings/Android/4.0/Kony_SyncV2-Android-4.0/tern.json
-nativebindings/iOS/11.0/Kony_SyncV2-iOS-11.0.zip
-nativebindings/iOS/11.0/Kony_SyncV2-iOS-11.0/tern.json
+/nativeapi.json
+/nativebindings/Android/*/Kony_SyncV2-Android-*.zip
+/nativebindings/Android/*/Kony_SyncV2-Android-*/tern.json
+/nativebindings/iOS/*/Kony_SyncV2-iOS-*.zip
+/nativebindings/iOS/*/Kony_SyncV2-iOS-*/tern.json
