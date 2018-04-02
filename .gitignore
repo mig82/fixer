@@ -34,7 +34,6 @@ resources/customlibs/lib/winphone10/
 /.project
 /.meta
 middleware.properties
-splashscreenproperties.json
 
 # Visualizer headless build configuration files
 HeadlessBuild.properties
