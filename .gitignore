@@ -35,7 +35,7 @@ resources/customlibs/lib/winphone10/
 middleware.properties
 
 # Visualizer headless build configuration files
-HeadlessBuild.properties
+#HeadlessBuild.properties
 HeadlessBuild-Global.properties
 
 # Visualizer modules which are automatically re-created when missing
