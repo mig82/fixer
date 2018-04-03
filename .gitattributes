@@ -1,0 +1,12 @@
+projectProperties.json filter=kony_projectProperties
+
+forms/*/*.sm/*Form.json filter=kony_forms
+forms/*/*.sm/*Frm.json filter=kony_forms
+forms/*/*.sm/frm*.json filter=kony_forms
+
+forms/*/*.sm/*Image.json filter=kony_images
+forms/*/*.sm/*Img.json filter=kony_images
+forms/*/*.sm/img*.json filter=kony_images
+
+#git config --global filter.kony_headless_props.clean 'sed -e "s/\(.*password.*=\).*/\1/"'
+HeadlessBuild.properties filter=kony_headless_props
