@@ -29,7 +29,8 @@
     "children": [
         "hellowWorldButton",
         "fooImage",
-        "goodByeButton"
+        "goodByeButton",
+        "editButtonFlex"
     ],
     "containerweight": 100,
     "controllerInfo": {
